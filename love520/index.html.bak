@@ -5,31 +5,23 @@
 		<meta name="keywords" content=""/>
 		<meta name="description" content=""/>
 
-		<meta name="viewport" content="width=640,user-scalable=no, target-densitydpi=device-dpi">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<script>
+<meta name="renderer" content="webkit">
+<meta name="format-detection" content="telephone=notelphone=no, email=no" />
 
-if(/Android (\d+\.\d+)/.test(navigator.userAgent)) {
+<meta name="apple-touch-fullscreen" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="320">
+<meta name="screen-orientation" content="portrait">
+<meta name="x5-orientation" content="portrait">
+<meta name="browsermode" content="application">
+<meta name="x5-page-mode" content="app">
+<meta name="msapplication-tap-highlight" content="no">
 
-if(parseFloat(RegExp.$1) > 2.3) {
-
-var phoneScale = parseInt(window.screen.width) / 640;
-
-document.write('');
-
-} else {
-
-document.write('');
-
-}
-
-} else {
-
-document.write('');
-
-}
-
-</script>
 		<title>520表白</title>
 		<style style="text/css">
 			*{margin:0;padding:0;}
