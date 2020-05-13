@@ -4,6 +4,32 @@
 		<meta charset="utf-8"/>
 		<meta name="keywords" content=""/>
 		<meta name="description" content=""/>
+
+		<meta name="viewport" content="width=640,user-scalable=no, target-densitydpi=device-dpi">
+
+<script>
+
+if(/Android (\d+\.\d+)/.test(navigator.userAgent)) {
+
+if(parseFloat(RegExp.$1) > 2.3) {
+
+var phoneScale = parseInt(window.screen.width) / 640;
+
+document.write('');
+
+} else {
+
+document.write('');
+
+}
+
+} else {
+
+document.write('');
+
+}
+
+</script>
 		<title>520表白</title>
 		<style style="text/css">
 			*{margin:0;padding:0;}
